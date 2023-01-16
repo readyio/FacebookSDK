@@ -1,0 +1,32 @@
+{
+  "name": "com.facebook.unity",
+  "displayName": "Facebook SDK",
+  "version": "9.2.0",
+  "unity": "2020.3",
+  "description": "The Facebook SDK for Unity complements Unity Technologies' cross-platform support, providing a pure-Unity write-once, run-everywhere experience across the key gaming platforms of WebGL, Unity Web Player, Android and iOS. By maintaing a single codebase, you'll be able to deploy socially integrated gaming experiences to your players, regardless of platform.",
+  "author": {
+    "name": "Meta"
+  },
+  "keywords": [
+    "mobile",
+    "meta",
+    "facebook",
+    "unity"
+  ],
+  "category": "Unity",
+  "files": [
+    "/README.md",
+    "/README.md.meta",
+    "/Editor",
+    "/Editor.meta",
+    "/package.json",
+    "/package.json.meta",
+    "/Plugins",
+    "/Plugins.meta",
+    "/SDK",
+    "/SDK.meta",
+    "/link.xml",
+    "/link.xml.meta"
+  ],
+  "dependencies": {}
+}
